@@ -80,4 +80,15 @@ def autenticate_player():
     return jsonify({"message": 500})
 
 
+@app.route("/api/updatePlayer", methods=["PUT"])
+def update_player():
+    player = request.get_json()
+    player_dict = json.loads(player)
+
+    cursor.execute("Update Kitchny.dbo.Players set nickname = '" + player_dict['nickname'] + "' where nome = '" + player_dict['nome'] + "'")
+    cursor.commit()
+
+    return jsonify({"message": 200})
+
+
 app.run()

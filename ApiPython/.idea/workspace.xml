@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed877bef-e592-498f-a247-93b78bd45b2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aluno.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Players.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Players.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -34,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="F:/COTUCA/2020/ENSINO TECNICO/SEGUNDO SEMESTRE/TOPICOS EM SISTEMAS EMBARCADOS/PROJETOS/FROGGER-GAME" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -81,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.api" />
       </list>
     </recent_temporary>
   </component>
@@ -108,26 +105,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="449" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604266951323" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604270270378">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604329464103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604270270378" />
-    <state width="1323" height="195" key="GridCell.Tab.0.bottom" timestamp="1604280928946">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604329464103" />
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom" timestamp="1604331312346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
-    <state width="1323" height="195" key="GridCell.Tab.0.center" timestamp="1604280928946">
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604331312346" />
+    <state width="1323" height="195" key="GridCell.Tab.0.center" timestamp="1604331312346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
-    <state width="1323" height="195" key="GridCell.Tab.0.left" timestamp="1604280928946">
+    <state width="1323" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604331312346" />
+    <state width="1323" height="195" key="GridCell.Tab.0.left" timestamp="1604331312346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
-    <state width="1323" height="195" key="GridCell.Tab.0.right" timestamp="1604280928946">
+    <state width="1323" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604331312346" />
+    <state width="1323" height="195" key="GridCell.Tab.0.right" timestamp="1604331312346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
+    <state width="1323" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604331312346" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604269706869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -144,9 +141,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604269706869" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1604277045335">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1604329452712">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604277045335" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604329452712" />
   </component>
 </project>

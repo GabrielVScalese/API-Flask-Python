@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed877bef-e592-498f-a247-93b78bd45b2d" name="Default Changelist" comment="" />
+    <list default="true" id="ed877bef-e592-498f-a247-93b78bd45b2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Players.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Players.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1jhqS4NFB69kcjy2uYAKWz4QZBM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="F:/COTUCA/2020/ENSINO TECNICO/SEGUNDO SEMESTRE/TOPICOS EM SISTEMAS EMBARCADOS/PROJETOS/FROGGER-GAME" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -68,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.api" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -87,26 +100,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1604279003327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1604279003327" />
     <state x="449" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604266951323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="449" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604266951323" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1604269706869">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604270270378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604269706869" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1604269706869">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604270270378" />
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom" timestamp="1604280928946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604269706869" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1604269706868">
+    <state width="1323" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
+    <state width="1323" height="195" key="GridCell.Tab.0.center" timestamp="1604280928946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604269706868" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1604269706869">
+    <state width="1323" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
+    <state width="1323" height="195" key="GridCell.Tab.0.left" timestamp="1604280928946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604269706869" />
+    <state width="1323" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
+    <state width="1323" height="195" key="GridCell.Tab.0.right" timestamp="1604280928946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604280928946" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604269706869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,19 +144,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604269706869" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1604266670337">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1604277045335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604266670337" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604277045335" />
   </component>
 </project>

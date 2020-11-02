@@ -1,6 +1,0 @@
-
-{"nome": "Gabriel", "pontuacao": 1000}
-{"nome": "Gabriel", "pontuacao": 1000}
-{"nome": "Gabriel", "pontuacao": 1000}
-{"nome": "Gabriel", "pontuacao": 1000}
-{"nome": "Gabriel", "pontuacao": 1000}

@@ -48,19 +48,19 @@ def get_player(nome):
 def insert_player():
     player = request.get_json()
     player_dict = json.loads(player)
+    print("a")
 
     cursor.execute("Select * from Kitchny.dbo.Players where nome = '" + player_dict['nome'] + "'")
 
     row = cursor.fetchone()
 
-    if row[1] == player_dict['nome']:
+    if row is not None:
         return jsonify({"message": 500})
 
     cursor.execute("Insert into Kitchny.dbo.Players values (?,?,?,?)", player_dict['nome'], player_dict['senha'],
                    player_dict['nickname'], player_dict['pontuacao'])
-    conn.commit()
 
-    return jsonify(player_dict)
+    return jsonify({"message": 200})
 
 
 @app.route("/api/autenticatePlayer", methods=["POST"])
@@ -85,10 +85,25 @@ def update_player():
     player = request.get_json()
     player_dict = json.loads(player)
 
-    cursor.execute("Update Kitchny.dbo.Players set nickname = '" + player_dict['nickname'] + "' where nome = '" + player_dict['nome'] + "'")
+    cursor.execute(
+        "Update Kitchny.dbo.Players set nickname = '" + player_dict['nickname'] + "' where nome = '" + player_dict[
+            'nome'] + "'")
     cursor.commit()
 
     return jsonify({"message": 200})
+
+@app.route("/api/updatePontuacao", methods=["PUT"])
+def update_pontuacao():
+    player = request.get_json()
+    player_dict = json.loads(player)
+
+    cursor.execute(
+        "Update Kitchny.dbo.Players set pontuacao = " + player_dict['pontuacao'] + " where nome = '" + player_dict[
+            'nome'] + "'")
+    cursor.commit()
+
+    return jsonify({"message": 200})
+
 
 
 app.run()

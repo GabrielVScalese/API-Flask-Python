@@ -98,7 +98,7 @@ def update_pontuacao():
     player_dict = json.loads(player)
 
     cursor.execute(
-        "Update Kitchny.dbo.Players set pontuacao = " + player_dict['pontuacao'] + " where nome = '" + player_dict[
+        "Update Kitchny.dbo.Players set pontuacao = " + str(player_dict['pontuacao']) + " where nome = '" + player_dict[
             'nome'] + "'")
     cursor.commit()
 
